@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "388665670523",
+    "firebase_url": "https://captureimagecamera.firebaseio.com",
+    "project_id": "captureimagecamera",
+    "storage_bucket": "captureimagecamera.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388665670523:android:b51745c3543ea848",
+        "android_client_info": {
+          "package_name": "com.example.mohamedmeme.captureimagecamera"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "388665670523-iqvqt1l5m631pdet86sk5h119g6fbrjk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mohamedmeme.captureimagecamera",
+            "certificate_hash": "605211d3abbee8afac5ae961a8cd749397f55822"
+          }
+        },
+        {
+          "client_id": "388665670523-v7jhacsrfjhaqcgb9jbjrtvo65ee2mps.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDStfuraqF2ZqSyYq3z1UMv2XSa-9EWT3w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "388665670523-v7jhacsrfjhaqcgb9jbjrtvo65ee2mps.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
